@@ -1,2 +1,2 @@
 # ml_algorithm
-machine learning algorithm implemented with golang
+machine learning algorithms implemented with golang
